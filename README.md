@@ -24,10 +24,13 @@ Sou estudante de C, C++, Html e outras ferramentas:
 
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
+![SQL](https://img.icons8.com/color/48/000000/database.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 
 
